@@ -7,5 +7,4 @@ In this dashboard, I covered the data modelling, DAX, charts, filters and slicer
 
 I get the data from kaggle.
 
-
-[Ecommerce Sales Dashboard.pdf](https://github.com/user-attachments/files/19602126/Ecommerce.Sales.Dashboard.pdf)
+https://github.com/Star007-A/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.pdf
